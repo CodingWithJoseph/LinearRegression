@@ -1,4 +1,4 @@
-# Manual Linear Regression Implementation
+# Linear Regression
 
 This project implements a Linear Regression model from scratch using NumPy, along with data loading and preprocessing for the California Housing dataset.
 
